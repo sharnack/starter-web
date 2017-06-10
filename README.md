@@ -11,5 +11,7 @@ Think of something.
 
 
 ## Deployment
+Simple Website. Server or local.
+
 
 ## How To Contribute
